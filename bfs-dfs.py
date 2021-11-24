@@ -194,7 +194,6 @@ if __name__ == '__main__':
            #respectivement la methode de 
 
 
-#SOPHINEZ AZOUAOU 181833011664  
 
  
 
