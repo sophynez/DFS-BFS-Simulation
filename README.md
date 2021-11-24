@@ -5,3 +5,4 @@ Python with pygame were used in the creation of this script
 ## To run the program 
 install pygame with the command : 
 $pip install pygame
+$ git clone https://example.com
